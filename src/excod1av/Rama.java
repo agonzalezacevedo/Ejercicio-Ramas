@@ -6,7 +6,7 @@ package excod1av;
  */
 public class Rama {
 
-    public void CommitC() {
-        System.out.println("Commit C hecho");
+    public void CommitD() {
+        System.out.println("Commit D hecho");
     }
 }
